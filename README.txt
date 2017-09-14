@@ -24,3 +24,7 @@ Notes
 
 Without a client to post the json requests this application is of
 limited use.
+
+Also, it is not a good idea to submit plaintext over the internet.
+So should be used only on a secure network (or locally) or
+updated to use https
